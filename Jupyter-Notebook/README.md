@@ -17,6 +17,6 @@ jupyter notebook
 
 ## Shortcuts to execute your code in Jupyter in Mac
 
-Ctrl + Enter : Run Cell
-Shift + Enter: Run Cell and Select Below
-Option + Enter: Run Cell and Insert Below
+* Ctrl + Enter : Run Cell
+* Shift + Enter: Run Cell and Select Below
+* Option + Enter: Run Cell and Insert Below
