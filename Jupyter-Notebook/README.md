@@ -3,15 +3,18 @@
 ## Installing Jupyter Notebook:
 
 1. Installing Jupyter Notebook using Conda:
+
     Visit: https://jupyter.org/install for more details
 
 2. Installing Jupyter using pip:
+
     pip install notebook
 
 
 ## Getting started
 
 To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
+
 jupyter notebook
 
 
