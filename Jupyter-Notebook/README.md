@@ -2,11 +2,11 @@
 
 ## Installing Jupyter Notebook:
 
-* Installing Jupyter Notebook using Conda
-Visit: https://jupyter.org/install for more details
+1. Installing Jupyter Notebook using Conda
+    Visit: https://jupyter.org/install for more details
 
-* Installing Jupyter using pip
-pip install notebook
+2. Installing Jupyter using pip
+    pip install notebook
 
 
 ## Getting started
