@@ -3,3 +3,5 @@
 * Jupyter Notebook Demo (Jupyter-Notebook)
 
 * Numpy - Basics
+
+* Pandas - Basics
