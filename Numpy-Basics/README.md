@@ -5,7 +5,7 @@ effectively. Numpy has many amazing capabilities such as the ability to manipula
 large arrays and matrices of numeric data.
 To use the NumPy module, we need to import it using:
 
-  *import numpy as np
+    import numpy as np
   
 ## Exercises:
 
